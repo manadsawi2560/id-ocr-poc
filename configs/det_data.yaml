@@ -1,0 +1,5 @@
+path: /home/manadsawi/project/id-ocr-poc/data/det
+train: images/train
+val: images/val
+test: images/test
+names: [textline]
